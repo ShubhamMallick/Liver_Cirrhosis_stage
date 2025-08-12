@@ -1,0 +1,9 @@
+# requirements.txt - Working packages for liver cirrhosis prediction
+pandas
+scikit-learn
+matplotlib
+jupyter
+notebook
+seaborn
+streamlit
+joblib
